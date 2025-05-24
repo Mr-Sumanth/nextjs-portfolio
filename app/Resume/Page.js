@@ -16,7 +16,7 @@ const Page = () => {
   )
 }
 
-export default page
+export default Page
 export const metadata = {
   title: "Resume",
   description: "Resume",
